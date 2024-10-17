@@ -1,6 +1,6 @@
 # Earthquake Data Visualization with Tableau
 
-[View the dashboard here][https://public.tableau.com/en-us/s/](https://public.tableau.com/app/profile/esther.adeyeni/viz/WORLDEARTHQUAKERECORDSDASHBOARD2001-2023/Dashboard1?publish=yes))
+[View the dashboard here](https://public.tableau.com/app/profile/esther.adeyeni/viz/WORLDEARTHQUAKERECORDSDASHBOARD2001-2023/Dashboard1?publish=yes)
 
 This project showcases data visualization techniques using Tableau to analyze and understand earthquake data. I focus on key aspects of the dataset such as earthquake magnitudes, the occurrence of tsunamis, geographic distribution, and the significance of earthquake events. Below are the instructions for replicating each visualization and creating an interactive dashboard.
 
